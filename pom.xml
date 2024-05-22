@@ -14,7 +14,7 @@
 	<name>oscar-movie-project</name>
 	<description>The application indicating whether a movie won a &quot;Best Picture&quot; Oscar</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
